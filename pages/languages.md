@@ -3,8 +3,15 @@ layout: page
 title: Jimena Salazar
 description: Idiomas que se dominan
 ---
-## Idiomas que hablo
+## Dominio de idiomas
 ---
-Español - Nativo
-Inglés – Excelente
-Portugués – Bueno
+A continuación, los idiomas que hablo y su respectivo grado de manejo
+
+- Español
+    Nativo
+
+- Inglés
+    Excelente
+
+- Portugués
+    Bueno

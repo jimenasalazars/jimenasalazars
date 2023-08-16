@@ -16,5 +16,5 @@ Visita mi [Perfil académico](https://tecdigital.tec.ac.cr/dotlrn/community-memb
 
 ## Más información
 ---
--[Skills](pages/skills.html)
--[Idiomas](pages/languages.html)
+- [Skills](pages/skills.html)
+- [Idiomas](pages/languages.html)
